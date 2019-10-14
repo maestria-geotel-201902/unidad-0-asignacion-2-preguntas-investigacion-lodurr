@@ -11,7 +11,7 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* Cuál es la distribución espacial de los puntos de calor (Hot Spots) para la República Dominicana basados en la correlación entre las variables climáticas y la ubicación de estos?
+* Cuál es la distribución espacial de los puntos de calor - Hot Spots para los incendios forestales en la República Dominicana basados en la correlación entre las variables climáticas y la ubicación espacial de estos?
 
 Para él o las áreas con mayor índice de influencia.
 * Qué relación existe entre este resultado y las elevaciones del área?
