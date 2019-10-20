@@ -19,3 +19,17 @@ Para él o las áreas con mayor índice de influencia.
 * Qué relación existe entre este resultado y la cobertura arbórea del área?
 * Qué relación existe entre este resultado y el tipo de bosque del área?
 * Qué relación existe entre este resultado y la cobertura agrícola del área?
+
+## Data a usar
+ Para el desarrollo de este trabajo se estará usando la siguiente información
+ 
+ * Incendios forestales *"https://firms.modaps.eosdis.nasa.gov/download/create.php"* (Información de los ultimos 10 años para el pais)
+ * Variables climaticas *"http://www.worldclim.org/"* (Esta información esta desactualizada por lo que se esta evaluando otra data, sin embargo en caso de no encontrar mejor data, esta será la usada)
+  
+ Es de resaltar que para las siguiente data se realizará una selección basada en los resultados del análisis de hot-spots realizado.
+ 
+ * Elevaciones *"https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm"*
+ * Pendientes -> Se realizará un análisis de pendientes basado el modelo DEM (Digital Elevation Model) descargado de la JAXA
+ * Cobertura arbórea *"Por definir"*
+ * Tipo de bosque *"Por definir"*
+ * Cobertura agrícola *"Por definir"*
