@@ -30,6 +30,6 @@ Para él o las áreas con mayor índice de influencia.
  
  * Elevaciones *"https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm"*
  * Pendientes -> Se realizará un análisis de pendientes basado el modelo DEM (Digital Elevation Model) descargado de la JAXA
- * Cobertura arbórea *"Por definir"*
- * Tipo de bosque *"Por definir"*
+ * Cobertura arbórea *http://earthenginepartners.appspot.com/science-2013-global-forest*
+ * Uso de suelo *http://due.esrin.esa.int/page_globcover.php*
  * Cobertura agrícola *"Por definir"*
