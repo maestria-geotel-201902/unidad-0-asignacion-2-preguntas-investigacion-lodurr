@@ -17,7 +17,7 @@ Para él o las áreas con mayor índice de influencia.
 * Qué relación existe entre este resultado y las elevaciones del área?
 * Qué relación existe entre este resultado y las pendientes del área?
 * Qué relación existe entre este resultado y la cobertura arbórea del área?
-* Qué relación existe entre este resultado y el tipo de bosque del área?
+* Qué relación existe entre este resultado y el uso de suelo del área?
 * Qué relación existe entre este resultado y la cobertura agrícola del área?
 
 ## Data a usar
